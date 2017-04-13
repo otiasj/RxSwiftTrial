@@ -40,24 +40,12 @@
 		F967AB531E8090AB00E16E0B /* TestComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F967AB471E8090AB00E16E0B /* TestComponent.swift */; };
 		F967AB541E8090AB00E16E0B /* TestModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = F967AB481E8090AB00E16E0B /* TestModule.swift */; };
 		F967AB561E80940400E16E0B /* PresenterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F967AB551E80940400E16E0B /* PresenterTest.swift */; };
-		F97407E11E9DFB360067AC68 /* NetworkApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F97407E01E9DFB360067AC68 /* NetworkApiService.swift */; };
-		F9E5D2541E984F38005F1421 /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E5D24C1E984F38005F1421 /* ApiService.swift */; };
-		F9E5D2551E984F38005F1421 /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E5D24D1E984F38005F1421 /* Preferences.swift */; };
-		F9E5D2561E984F38005F1421 /* UIPaddingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E5D2501E984F38005F1421 /* UIPaddingLabel.swift */; };
-		F9E5D2571E984F38005F1421 /* ViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E5D2511E984F38005F1421 /* ViewControllerExtension.swift */; };
-		F9E5D2581E984F38005F1421 /* ObservableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E5D2531E984F38005F1421 /* ObservableType.swift */; };
-		F9F8DED71E83026F00701DD5 /* ___FILEBASENAME___Component.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DEC51E83026F00701DD5 /* ___FILEBASENAME___Component.swift */; };
-		F9F8DED81E83026F00701DD5 /* ___FILEBASENAME___Module.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DEC61E83026F00701DD5 /* ___FILEBASENAME___Module.swift */; };
-		F9F8DED91E83026F00701DD5 /* ___FILEBASENAME___CacheApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DEC81E83026F00701DD5 /* ___FILEBASENAME___CacheApiService.swift */; };
-		F9F8DEDA1E83026F00701DD5 /* ___FILEBASENAME___NetworkApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DEC91E83026F00701DD5 /* ___FILEBASENAME___NetworkApiService.swift */; };
-		F9F8DEDB1E83026F00701DD5 /* ___FILEBASENAME___Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DECB1E83026F00701DD5 /* ___FILEBASENAME___Delegate.swift */; };
-		F9F8DEDC1E83026F00701DD5 /* ___FILEBASENAME___DelegateImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DECC1E83026F00701DD5 /* ___FILEBASENAME___DelegateImpl.swift */; };
-		F9F8DEDD1E83026F00701DD5 /* ___FILEBASENAME___Entity.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DECD1E83026F00701DD5 /* ___FILEBASENAME___Entity.swift */; };
-		F9F8DEDE1E83026F00701DD5 /* ___FILEBASENAME___Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DED01E83026F00701DD5 /* ___FILEBASENAME___Model.swift */; };
-		F9F8DEDF1E83026F00701DD5 /* ___FILEBASENAME___Presenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DED21E83026F00701DD5 /* ___FILEBASENAME___Presenter.swift */; };
-		F9F8DEE01E83026F00701DD5 /* ___FILEBASENAME___PresenterImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DED31E83026F00701DD5 /* ___FILEBASENAME___PresenterImpl.swift */; };
-		F9F8DEE11E83026F00701DD5 /* ___FILEBASENAME___View.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DED51E83026F00701DD5 /* ___FILEBASENAME___View.swift */; };
-		F9F8DEE21E83026F00701DD5 /* ___FILEBASENAME___ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DED61E83026F00701DD5 /* ___FILEBASENAME___ViewController.swift */; };
+		F9BDAA751EA0365C00073858 /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA6C1EA0365C00073858 /* ApiService.swift */; };
+		F9BDAA761EA0365C00073858 /* NetworkApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA6D1EA0365C00073858 /* NetworkApiService.swift */; };
+		F9BDAA771EA0365C00073858 /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA6E1EA0365C00073858 /* Preferences.swift */; };
+		F9BDAA781EA0365C00073858 /* UIPaddingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA711EA0365C00073858 /* UIPaddingLabel.swift */; };
+		F9BDAA791EA0365C00073858 /* ViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA721EA0365C00073858 /* ViewControllerExtension.swift */; };
+		F9BDAA7A1EA0365C00073858 /* ObservableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA741EA0365C00073858 /* ObservableType.swift */; };
 		F9F8DEEA1E83027B00701DD5 /* ___FILEBASENAME___DelegateTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DEE61E83027B00701DD5 /* ___FILEBASENAME___DelegateTest.swift */; };
 		F9F8DEEB1E83027B00701DD5 /* ___FILEBASENAME___PresenterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DEE91E83027B00701DD5 /* ___FILEBASENAME___PresenterTest.swift */; };
 /* End PBXBuildFile section */
@@ -123,24 +111,12 @@
 		F967AB471E8090AB00E16E0B /* TestComponent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestComponent.swift; sourceTree = "<group>"; };
 		F967AB481E8090AB00E16E0B /* TestModule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestModule.swift; sourceTree = "<group>"; };
 		F967AB551E80940400E16E0B /* PresenterTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PresenterTest.swift; path = Test/Presentation/Presenter/PresenterTest.swift; sourceTree = "<group>"; };
-		F97407E01E9DFB360067AC68 /* NetworkApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkApiService.swift; sourceTree = "<group>"; };
-		F9E5D24C1E984F38005F1421 /* ApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
-		F9E5D24D1E984F38005F1421 /* Preferences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
-		F9E5D2501E984F38005F1421 /* UIPaddingLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIPaddingLabel.swift; sourceTree = "<group>"; };
-		F9E5D2511E984F38005F1421 /* ViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerExtension.swift; sourceTree = "<group>"; };
-		F9E5D2531E984F38005F1421 /* ObservableType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObservableType.swift; sourceTree = "<group>"; };
-		F9F8DEC51E83026F00701DD5 /* ___FILEBASENAME___Component.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___Component.swift"; sourceTree = "<group>"; };
-		F9F8DEC61E83026F00701DD5 /* ___FILEBASENAME___Module.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___Module.swift"; sourceTree = "<group>"; };
-		F9F8DEC81E83026F00701DD5 /* ___FILEBASENAME___CacheApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___CacheApiService.swift"; sourceTree = "<group>"; };
-		F9F8DEC91E83026F00701DD5 /* ___FILEBASENAME___NetworkApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___NetworkApiService.swift"; sourceTree = "<group>"; };
-		F9F8DECB1E83026F00701DD5 /* ___FILEBASENAME___Delegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___Delegate.swift"; sourceTree = "<group>"; };
-		F9F8DECC1E83026F00701DD5 /* ___FILEBASENAME___DelegateImpl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___DelegateImpl.swift"; sourceTree = "<group>"; };
-		F9F8DECD1E83026F00701DD5 /* ___FILEBASENAME___Entity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___Entity.swift"; sourceTree = "<group>"; };
-		F9F8DED01E83026F00701DD5 /* ___FILEBASENAME___Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___Model.swift"; sourceTree = "<group>"; };
-		F9F8DED21E83026F00701DD5 /* ___FILEBASENAME___Presenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___Presenter.swift"; sourceTree = "<group>"; };
-		F9F8DED31E83026F00701DD5 /* ___FILEBASENAME___PresenterImpl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___PresenterImpl.swift"; sourceTree = "<group>"; };
-		F9F8DED51E83026F00701DD5 /* ___FILEBASENAME___View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___View.swift"; sourceTree = "<group>"; };
-		F9F8DED61E83026F00701DD5 /* ___FILEBASENAME___ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___ViewController.swift"; sourceTree = "<group>"; };
+		F9BDAA6C1EA0365C00073858 /* ApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
+		F9BDAA6D1EA0365C00073858 /* NetworkApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkApiService.swift; sourceTree = "<group>"; };
+		F9BDAA6E1EA0365C00073858 /* Preferences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
+		F9BDAA711EA0365C00073858 /* UIPaddingLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIPaddingLabel.swift; sourceTree = "<group>"; };
+		F9BDAA721EA0365C00073858 /* ViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerExtension.swift; sourceTree = "<group>"; };
+		F9BDAA741EA0365C00073858 /* ObservableType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObservableType.swift; sourceTree = "<group>"; };
 		F9F8DEE61E83027B00701DD5 /* ___FILEBASENAME___DelegateTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___DelegateTest.swift"; sourceTree = "<group>"; };
 		F9F8DEE91E83027B00701DD5 /* ___FILEBASENAME___PresenterTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___PresenterTest.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -217,8 +193,7 @@
 		F925D2331E7B3B0700BF521E /* RxSwiftTrial */ = {
 			isa = PBXGroup;
 			children = (
-				F9E5D24A1E984F38005F1421 /* Core */,
-				F9F8DEC41E83026F00701DD5 /* ___FILEBASENAME___ */,
+				F9BDAA6A1EA0365C00073858 /* Core */,
 				F967AB361E8090AB00E16E0B /* Test */,
 				F925D2681E7B42B600BF521E /* Login */,
 				F925D2341E7B3B0700BF521E /* AppDelegate.swift */,
@@ -384,118 +359,49 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		F9E5D24A1E984F38005F1421 /* Core */ = {
+		F9BDAA6A1EA0365C00073858 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				F9E5D24B1E984F38005F1421 /* Data */,
-				F9E5D24E1E984F38005F1421 /* Presentation */,
-				F9E5D2521E984F38005F1421 /* Utils */,
+				F9BDAA6B1EA0365C00073858 /* Data */,
+				F9BDAA6F1EA0365C00073858 /* Presentation */,
+				F9BDAA731EA0365C00073858 /* Utils */,
 			);
-			name = Core;
-			path = "../../../coinspect-ios/Documents/CoInspect Feature Templates/Core Files.xctemplate/Core";
+			path = Core;
 			sourceTree = "<group>";
 		};
-		F9E5D24B1E984F38005F1421 /* Data */ = {
+		F9BDAA6B1EA0365C00073858 /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				F9E5D24C1E984F38005F1421 /* ApiService.swift */,
-				F9E5D24D1E984F38005F1421 /* Preferences.swift */,
-				F97407E01E9DFB360067AC68 /* NetworkApiService.swift */,
+				F9BDAA6C1EA0365C00073858 /* ApiService.swift */,
+				F9BDAA6D1EA0365C00073858 /* NetworkApiService.swift */,
+				F9BDAA6E1EA0365C00073858 /* Preferences.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
 		};
-		F9E5D24E1E984F38005F1421 /* Presentation */ = {
+		F9BDAA6F1EA0365C00073858 /* Presentation */ = {
 			isa = PBXGroup;
 			children = (
-				F9E5D24F1E984F38005F1421 /* View */,
+				F9BDAA701EA0365C00073858 /* View */,
 			);
 			path = Presentation;
 			sourceTree = "<group>";
 		};
-		F9E5D24F1E984F38005F1421 /* View */ = {
+		F9BDAA701EA0365C00073858 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				F9E5D2501E984F38005F1421 /* UIPaddingLabel.swift */,
-				F9E5D2511E984F38005F1421 /* ViewControllerExtension.swift */,
+				F9BDAA711EA0365C00073858 /* UIPaddingLabel.swift */,
+				F9BDAA721EA0365C00073858 /* ViewControllerExtension.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		F9E5D2521E984F38005F1421 /* Utils */ = {
+		F9BDAA731EA0365C00073858 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				F9E5D2531E984F38005F1421 /* ObservableType.swift */,
+				F9BDAA741EA0365C00073858 /* ObservableType.swift */,
 			);
 			path = Utils;
-			sourceTree = "<group>";
-		};
-		F9F8DEC41E83026F00701DD5 /* ___FILEBASENAME___ */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DEC51E83026F00701DD5 /* ___FILEBASENAME___Component.swift */,
-				F9F8DEC61E83026F00701DD5 /* ___FILEBASENAME___Module.swift */,
-				F9F8DEC71E83026F00701DD5 /* Data */,
-				F9F8DECA1E83026F00701DD5 /* Domain */,
-				F9F8DECE1E83026F00701DD5 /* Presentation */,
-			);
-			name = "___FILEBASENAME___";
-			path = "../../../../Library/Developer/Xcode/Templates/CoInspect Feature Templates/Feature files.xctemplate/___FILEBASENAME___";
-			sourceTree = "<group>";
-		};
-		F9F8DEC71E83026F00701DD5 /* Data */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DEC81E83026F00701DD5 /* ___FILEBASENAME___CacheApiService.swift */,
-				F9F8DEC91E83026F00701DD5 /* ___FILEBASENAME___NetworkApiService.swift */,
-			);
-			path = Data;
-			sourceTree = "<group>";
-		};
-		F9F8DECA1E83026F00701DD5 /* Domain */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DECB1E83026F00701DD5 /* ___FILEBASENAME___Delegate.swift */,
-				F9F8DECC1E83026F00701DD5 /* ___FILEBASENAME___DelegateImpl.swift */,
-				F9F8DECD1E83026F00701DD5 /* ___FILEBASENAME___Entity.swift */,
-			);
-			path = Domain;
-			sourceTree = "<group>";
-		};
-		F9F8DECE1E83026F00701DD5 /* Presentation */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DECF1E83026F00701DD5 /* Model */,
-				F9F8DED11E83026F00701DD5 /* Presenter */,
-				F9F8DED41E83026F00701DD5 /* View */,
-			);
-			path = Presentation;
-			sourceTree = "<group>";
-		};
-		F9F8DECF1E83026F00701DD5 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DED01E83026F00701DD5 /* ___FILEBASENAME___Model.swift */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		F9F8DED11E83026F00701DD5 /* Presenter */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DED21E83026F00701DD5 /* ___FILEBASENAME___Presenter.swift */,
-				F9F8DED31E83026F00701DD5 /* ___FILEBASENAME___PresenterImpl.swift */,
-			);
-			path = Presenter;
-			sourceTree = "<group>";
-		};
-		F9F8DED41E83026F00701DD5 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DED51E83026F00701DD5 /* ___FILEBASENAME___View.swift */,
-				F9F8DED61E83026F00701DD5 /* ___FILEBASENAME___ViewController.swift */,
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 		F9F8DEE31E83027B00701DD5 /* ___FILEBASENAME___ */ = {
@@ -773,47 +679,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F9F8DEE11E83026F00701DD5 /* ___FILEBASENAME___View.swift in Sources */,
 				F925D27C1E7B42B600BF521E /* LoginViewController.swift in Sources */,
 				F967AB521E8090AB00E16E0B /* TestViewController.swift in Sources */,
 				F925D2791E7B42B600BF521E /* LoginPresenter.swift in Sources */,
 				F925D2371E7B3B0700BF521E /* ViewController.swift in Sources */,
-				F9F8DEDF1E83026F00701DD5 /* ___FILEBASENAME___Presenter.swift in Sources */,
 				F967AB4C1E8090AB00E16E0B /* TestDelegateImpl.swift in Sources */,
-				F9F8DEDC1E83026F00701DD5 /* ___FILEBASENAME___DelegateImpl.swift in Sources */,
 				F967AB541E8090AB00E16E0B /* TestModule.swift in Sources */,
 				F925D2761E7B42B600BF521E /* LoginDelegate.swift in Sources */,
-				F9E5D2561E984F38005F1421 /* UIPaddingLabel.swift in Sources */,
 				F925D27E1E7B47E500BF521E /* LoginDelegateImpl.swift in Sources */,
 				F925D27A1E7B42B600BF521E /* LoginPresenterImpl.swift in Sources */,
-				F9F8DEDB1E83026F00701DD5 /* ___FILEBASENAME___Delegate.swift in Sources */,
-				F9E5D2581E984F38005F1421 /* ObservableType.swift in Sources */,
-				F9F8DEDD1E83026F00701DD5 /* ___FILEBASENAME___Entity.swift in Sources */,
-				F9E5D2541E984F38005F1421 /* ApiService.swift in Sources */,
-				F9F8DEE21E83026F00701DD5 /* ___FILEBASENAME___ViewController.swift in Sources */,
 				F925D2351E7B3B0700BF521E /* AppDelegate.swift in Sources */,
-				F9F8DED81E83026F00701DD5 /* ___FILEBASENAME___Module.swift in Sources */,
-				F9F8DEDE1E83026F00701DD5 /* ___FILEBASENAME___Model.swift in Sources */,
 				F925D2781E7B42B600BF521E /* LoginModule.swift in Sources */,
 				F967AB4A1E8090AB00E16E0B /* TestNetworkApiService.swift in Sources */,
 				F925D27B1E7B42B600BF521E /* LoginView.swift in Sources */,
-				F9F8DED71E83026F00701DD5 /* ___FILEBASENAME___Component.swift in Sources */,
 				F967AB491E8090AB00E16E0B /* TestCacheApiService.swift in Sources */,
+				F9BDAA751EA0365C00073858 /* ApiService.swift in Sources */,
+				F9BDAA761EA0365C00073858 /* NetworkApiService.swift in Sources */,
+				F9BDAA791EA0365C00073858 /* ViewControllerExtension.swift in Sources */,
 				F925D2771E7B42B600BF521E /* LoginComponent.swift in Sources */,
-				F9E5D2571E984F38005F1421 /* ViewControllerExtension.swift in Sources */,
 				F967AB531E8090AB00E16E0B /* TestComponent.swift in Sources */,
 				F967AB511E8090AB00E16E0B /* TestView.swift in Sources */,
 				F967AB4D1E8090AB00E16E0B /* TestEntity.swift in Sources */,
 				F967AB4F1E8090AB00E16E0B /* TestPresenter.swift in Sources */,
-				F9F8DED91E83026F00701DD5 /* ___FILEBASENAME___CacheApiService.swift in Sources */,
-				F9E5D2551E984F38005F1421 /* Preferences.swift in Sources */,
 				F967AB501E8090AB00E16E0B /* TestPresenterImpl.swift in Sources */,
-				F9F8DEE01E83026F00701DD5 /* ___FILEBASENAME___PresenterImpl.swift in Sources */,
+				F9BDAA781EA0365C00073858 /* UIPaddingLabel.swift in Sources */,
+				F9BDAA771EA0365C00073858 /* Preferences.swift in Sources */,
 				F967AB4E1E8090AB00E16E0B /* TestModel.swift in Sources */,
 				F925D2801E7B482100BF521E /* LoginEntity.swift in Sources */,
+				F9BDAA7A1EA0365C00073858 /* ObservableType.swift in Sources */,
 				F967AB4B1E8090AB00E16E0B /* TestDelegate.swift in Sources */,
-				F9F8DEDA1E83026F00701DD5 /* ___FILEBASENAME___NetworkApiService.swift in Sources */,
-				F97407E11E9DFB360067AC68 /* NetworkApiService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
