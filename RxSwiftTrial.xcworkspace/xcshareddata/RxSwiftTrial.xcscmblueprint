@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "86C45D1A7E2C37F5156BA83C7F6C34FCC3831E92",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "86C45D1A7E2C37F5156BA83C7F6C34FCC3831E92" : 9223372036854775807,
+    "51E94B7A53B4F8EF3203FBB981E338926A0C927C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A67F4FB4-F233-4035-88D6-81FC1A109A6D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "86C45D1A7E2C37F5156BA83C7F6C34FCC3831E92" : "UdemyIOS\/",
+    "51E94B7A53B4F8EF3203FBB981E338926A0C927C" : "coinspect-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RxSwiftTrial",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RxSwiftTrial\/RxSwiftTrial.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket-mewe:mewe-dev\/coinspect-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51E94B7A53B4F8EF3203FBB981E338926A0C927C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:otiasj\/UdemyIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86C45D1A7E2C37F5156BA83C7F6C34FCC3831E92"
+    }
+  ]
+}
