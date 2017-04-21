@@ -46,8 +46,6 @@
 		F9BDAA781EA0365C00073858 /* UIPaddingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA711EA0365C00073858 /* UIPaddingLabel.swift */; };
 		F9BDAA791EA0365C00073858 /* ViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA721EA0365C00073858 /* ViewControllerExtension.swift */; };
 		F9BDAA7A1EA0365C00073858 /* ObservableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BDAA741EA0365C00073858 /* ObservableType.swift */; };
-		F9F8DEEA1E83027B00701DD5 /* ___FILEBASENAME___DelegateTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DEE61E83027B00701DD5 /* ___FILEBASENAME___DelegateTest.swift */; };
-		F9F8DEEB1E83027B00701DD5 /* ___FILEBASENAME___PresenterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F8DEE91E83027B00701DD5 /* ___FILEBASENAME___PresenterTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,8 +115,6 @@
 		F9BDAA711EA0365C00073858 /* UIPaddingLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIPaddingLabel.swift; sourceTree = "<group>"; };
 		F9BDAA721EA0365C00073858 /* ViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerExtension.swift; sourceTree = "<group>"; };
 		F9BDAA741EA0365C00073858 /* ObservableType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObservableType.swift; sourceTree = "<group>"; };
-		F9F8DEE61E83027B00701DD5 /* ___FILEBASENAME___DelegateTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___DelegateTest.swift"; sourceTree = "<group>"; };
-		F9F8DEE91E83027B00701DD5 /* ___FILEBASENAME___PresenterTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "___FILEBASENAME___PresenterTest.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -209,7 +205,6 @@
 		F925D2481E7B3B0700BF521E /* RxSwiftTrialTests */ = {
 			isa = PBXGroup;
 			children = (
-				F9F8DEE31E83027B00701DD5 /* ___FILEBASENAME___ */,
 				F953DC6F1E81F60500463D7C /* TestDelegateTest.swift */,
 				F967AB551E80940400E16E0B /* PresenterTest.swift */,
 				F925D2491E7B3B0700BF521E /* RxSwiftTrialTests.swift */,
@@ -402,48 +397,6 @@
 				F9BDAA741EA0365C00073858 /* ObservableType.swift */,
 			);
 			path = Utils;
-			sourceTree = "<group>";
-		};
-		F9F8DEE31E83027B00701DD5 /* ___FILEBASENAME___ */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DEE41E83027B00701DD5 /* Data */,
-				F9F8DEE51E83027B00701DD5 /* Domain */,
-				F9F8DEE71E83027B00701DD5 /* Presentation */,
-			);
-			name = "___FILEBASENAME___";
-			path = "../../../../Library/Developer/Xcode/Templates/CoInspect Feature Templates/Tests files.xctemplate/___FILEBASENAME___";
-			sourceTree = "<group>";
-		};
-		F9F8DEE41E83027B00701DD5 /* Data */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Data;
-			sourceTree = "<group>";
-		};
-		F9F8DEE51E83027B00701DD5 /* Domain */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DEE61E83027B00701DD5 /* ___FILEBASENAME___DelegateTest.swift */,
-			);
-			path = Domain;
-			sourceTree = "<group>";
-		};
-		F9F8DEE71E83027B00701DD5 /* Presentation */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DEE81E83027B00701DD5 /* Presenter */,
-			);
-			path = Presentation;
-			sourceTree = "<group>";
-		};
-		F9F8DEE81E83027B00701DD5 /* Presenter */ = {
-			isa = PBXGroup;
-			children = (
-				F9F8DEE91E83027B00701DD5 /* ___FILEBASENAME___PresenterTest.swift */,
-			);
-			path = Presenter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -716,10 +669,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F953DC701E81F60500463D7C /* TestDelegateTest.swift in Sources */,
-				F9F8DEEA1E83027B00701DD5 /* ___FILEBASENAME___DelegateTest.swift in Sources */,
 				F953DC9C1E82375C00463D7C /* RxSwiftTest.swift in Sources */,
 				F925D24A1E7B3B0700BF521E /* RxSwiftTrialTests.swift in Sources */,
-				F9F8DEEB1E83027B00701DD5 /* ___FILEBASENAME___PresenterTest.swift in Sources */,
 				F967AB561E80940400E16E0B /* PresenterTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
